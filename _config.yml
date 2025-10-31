@@ -1,1 +1,16 @@
+# Basic Site Settings
+title: Emmanuel Aina | Data Scientist | Machine Learning Engineer
+email: ainaemanuel@gmail.com
+description: >- # This description will appear in search results
+  A concise summary of your skills (e.g., Deep Learning, NLP, Time Series) and research interests.
 
+# Theme Settings (Example: Minimal Mistakes)
+remote_theme: "mmistakes/minimal-mistakes"
+
+# GitHub Pages Settings
+github: [metadata]
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
+  - jekyll-feed
+  # Add other necessary Jekyll plugins here
